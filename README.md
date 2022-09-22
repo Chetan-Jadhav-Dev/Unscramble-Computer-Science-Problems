@@ -1,4 +1,4 @@
-# Udacity-project-1-Unscramble-Computer-Science-Problems
+# Unscramble-Computer-Science-Problems
 
 Rubric
 Criteria 	Meets Specifications
